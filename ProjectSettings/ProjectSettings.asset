@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 8aaf85eb2c7cd91409dad21d0085ee0a
+  productGUID: d591e6f051744ce448a8179a785008d6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Age of the Dead
+  companyName: Hera Games
+  productName: AgeOfTheDeadd
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -291,7 +291,14 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: cdb79a0fdd33867409046496537e06da, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
@@ -601,14 +608,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Age of the Dead
+  metroPackageName: AgeOfTheDeadd
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Age of the Dead
+  metroApplicationDescription: AgeOfTheDeadd
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -679,10 +686,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 07db4a76-d866-4f17-a6d9-a183850d1553
+  cloudProjectId: e880d825-2bbe-4f3e-8c22-f9b25b17d01c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Age of the Dead
+  projectName: AgeOfTheDeadd
   organizationId: rubinazuma
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
