@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pantalla Inicio.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: 7c1f69f6ece5acd4484e8169ebbe5dc1
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: 14928ccfbb1176b45a38549cacf7b71d
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: 61a9db93826694346862e1699e843ab2
+  - enabled: 1
+    path: Assets/Scenes/Final-Victoria.unity
+    guid: 184253db8e8ec8141a39a4269a9881bf
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: c6ca17dfe058f744d84cfe1637bb4ffd
+  - enabled: 1
+    path: Assets/Scenes/Selector de nivel.unity
+    guid: e87c05da05b04f3428b23c63f8a14164
+  - enabled: 1
+    path: Assets/Scenes/Final-Derrota.unity
+    guid: f53a125fb0603a44f9d500c33416d784
+  - enabled: 1
+    path: Assets/Scenes/Menu Jugador.unity
+    guid: 73f3e5b677e97604e9220a0c55adb05e
+  - enabled: 1
+    path: Assets/Scenes/Habilidades.unity
+    guid: 8405aad277cb3a94d90e68f3e813ccb4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
