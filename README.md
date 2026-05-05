@@ -98,7 +98,7 @@ PlayAlmi-AgeOfTheDeath/
 
 ## 🌐 Plataforma PlayAlmi
 
-Este juego se integra con **[PlayAlmi](https://playalmi.com)**, la plataforma web del proyecto que incluye:
+Este juego se integra con **[PlayAlmi](http://hera-playalmi.switzerlandnorth.cloudapp.azure.com)**, la plataforma web del proyecto que incluye:
 
 - 🏆 **Clasificación global** con las mejores puntuaciones
 - 👤 **Perfiles de usuario** con historial de partidas
